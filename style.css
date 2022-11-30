@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+section{
+    padding: 50px;
+}
+.form-label{
+    float: left;
+}
+ 
+ body{
+    background-color: #193FD5;
+ }
+span a{
+    color:#193FD5;
+    text-decoration: none;
+   
+}
+img{
+    width:500px;
+    height: 525px;
+}
+
+.container {
+    background-color:white;
+    border-radius:15px;
+}
+.connect a{
+    border-radius:5px;
+    width: 250px;
+    height: 30px;
+    color:white;
+    text-decoration: none;
+    float: left;
+    font-size:20px;
+    font-weight:bold;
+
+}
+.btn{
+     float: left;
+ }
